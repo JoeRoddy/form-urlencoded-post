@@ -1,0 +1,28 @@
+{
+  "name": "joeroddy",
+  "version": "1.0.0",
+  "description": "Posting form data like jquery's &.post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeRoddy/form-urlencoded-post.git"
+  },
+  "keywords": [
+    "post",
+    "form",
+    "urlencoded",
+    "request",
+    "jquery",
+    "react",
+    "native"
+  ],
+  "author": "Joe Roddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeRoddy/form-urlencoded-post/issues"
+  },
+  "homepage": "https://github.com/JoeRoddy/form-urlencoded-post#readme"
+}

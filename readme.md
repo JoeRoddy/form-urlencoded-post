@@ -1,7 +1,7 @@
 # form-urlencoded-post
 Jquery post alternative for application/x-www-form-urlencoded post requests.
 
-Can't use jquery for size reasons?  Because you can't access the dom?  Trying to post in React Native? We gotchu..
+Can't use jquery for size reasons?  Can't access the dom?  Trying to post in React Native? We gotchu..
 
 ### Installation
 ```shell
